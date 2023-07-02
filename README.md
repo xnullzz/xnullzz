@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xnullzz
 - 👀 I’m interested in Python, DevOps engineering, C++
 - 🌱 I’m currently learning Python, C++
-- 📫 How to reach me xnullzz@xnullzz.ddns.net
+- 📫 How to reach me xnullzz@proton.me
 
 <!---
 xnullzz/xnullzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
